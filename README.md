@@ -1,7 +1,5 @@
 📄 README.md (Markdown File)
-md
-Copy
-Edit
+
 # 🤖 C++ Chatbot Project
 
 A simple **AI-powered chatbot** built using **C++**, with the ability to **learn from user interactions** and store responses dynamically. 🚀  
@@ -18,16 +16,13 @@ A simple **AI-powered chatbot** built using **C++**, with the ability to **learn
 ## 📂 Project Structure
 📦 C++-Chatbot ┣ 📜 chatbot.cpp # Main chatbot program ┣ 📜 knowledge_base.txt # Stores chatbot responses ┣ 📜 README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
 ## 🚀 How to Run This Project
 ### **📌 1. Compile the C++ Program**
 Use the following command in the terminal:
-```sh
+
 g++ chatbot.cpp -o chatbot
 📌 2. Run the Chatbot
 sh
@@ -37,9 +32,7 @@ Edit
 🎉 Now, start chatting with your AI bot!
 
 🔍 Example Conversation
-vbnet
-Copy
-Edit
+
 🤖 AI Chatbot is ready! Type 'exit' to quit.
 
 You: Hello
